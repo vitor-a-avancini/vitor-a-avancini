@@ -15,10 +15,10 @@
 > **“Turning ambitious ideas into resilient products that move the revenue needle.”**
 
 ### 🚀 Executive Snapshot
-- **US$ 5 M+** annual delivery portfolio managed with **98 % on-time** completion:contentReference[oaicite:9]{index=9}  
-- Architected AWS event mesh processing **8 M+** messages / day and cut release cycles by **40 %**:contentReference[oaicite:10]{index=10}  
-- Led multicultural squads with teams based in **9 countries+**, boosting delivery velocity by **28 %** via lean governance:contentReference[oaicite:11]{index=11}  
-- Realised **US$ 4 M** opex savings by eliminating re-work with a Node.js digital-docs portal:contentReference[oaicite:12]{index=12}  
+- **US$ 5 M+** annual delivery portfolio managed with **98 % on-time** completion
+- Architected AWS event mesh processing **8 M+** messages/day and cut release cycles by **40 %**
+- Led multicultural squads with teams based in **9 countries+**, boosting delivery velocity by **28 %** via lean governance 
+- Realised **US$ 4 M** OPEX savings by eliminating rework with a Node.js digital-docs portal  
 
 ### 🧭 Core Expertise
 Cloud Strategy · DevOps & IaC · Product Management · OKRs · Event-Driven Architectures · AI-ready Data Platforms · Cost Optimisation · Cross-cultural Leadership  
