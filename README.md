@@ -1,5 +1,5 @@
 <h1 align="center">Vitor Avancini</h1>
-<h3 align="center">Cloud & Product Executive · Technical Director @ Huawei Cloud
+<h3 align="center">Cloud & Product · Technical Director @ Huawei Cloud
   
   Driving Digital Transformation across LATAM & EMEA</h3>
 
