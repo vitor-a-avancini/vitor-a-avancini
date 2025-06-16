@@ -38,4 +38,4 @@ Cloud Strategy · DevOps & IaC · Product Management · OKRs · Event-Driven Arc
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vitoravancini)
-[![Email](https://img.shields.io/badge/Email-vtravancini%40gmail.com-red?style=for-the-badge)](mailto:vitor.avancini@zteky.com)
+[![Email](https://img.shields.io/badge/Email-vitor.avancini%40zteky.com-red?style=for-the-badge)](mailto:vitor.avancini@zteky.com)
