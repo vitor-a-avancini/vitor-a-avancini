@@ -1,5 +1,7 @@
 <h1 align="center">Vitor Avancini</h1>
-<h3 align="center">Cloud & Product Executive · Technical Director @ Huawei Cloud · Driving Digital Transformation across LATAM & EMEA</h3>
+<h3 align="center">Cloud & Product Executive · Technical Director @ Huawei Cloud
+  
+  Driving Digital Transformation across LATAM & EMEA</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Technical%20Director-blue?style=for-the-badge" />
